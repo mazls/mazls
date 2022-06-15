@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marcel @mazls
 - 👀 I’m interested in programming, 3d printing
-- 🌱 I’m currently learning ai and machine learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python and ai
+
 - 📫 How to reach me m.suffel@suffel-engineering.de
 
 <!---
