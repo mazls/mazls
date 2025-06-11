@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, 3d printing
 - 🌱 I’m currently learning c#, python and ai
 
-- 📫 How to reach me 
+- 📫 How to reach me mazlsuffl@gmx.de
 
 <!---
 mazls/mazls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
